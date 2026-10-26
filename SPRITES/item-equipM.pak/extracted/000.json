@@ -1,0 +1,33 @@
+{
+ "image": "000.png",
+ "width": 141,
+ "height": 139,
+ "original_bpp": 24,
+ "original_pixels_sha1": "0fa8585f6dea8defa04f766b896849684b1b6e72",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  },
+  {
+   "x": 47,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  },
+  {
+   "x": 94,
+   "y": 0,
+   "width": 47,
+   "height": 139,
+   "pivot_x": -127,
+   "pivot_y": -167
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "image": "044.png",
+ "width": 92,
+ "height": 26,
+ "original_bpp": 24,
+ "original_pixels_sha1": "7f9dfa2b0a115b37d986002149944f0ce0074ee7",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 7,
+   "height": 23,
+   "pivot_x": -11,
+   "pivot_y": -39
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "width": 18,
+   "height": 26,
+   "pivot_x": -12,
+   "pivot_y": -35
+  },
+  {
+   "x": 25,
+   "y": 0,
+   "width": 29,
+   "height": 26,
+   "pivot_x": -12,
+   "pivot_y": -31
+  },
+  {
+   "x": 54,
+   "y": 0,
+   "width": 38,
+   "height": 24,
+   "pivot_x": -10,
+   "pivot_y": -26
+  }
+ ],
+ "header_pad": "000080000200040001006c008801340030670b011100020001010c0000070c0170070c01350c01ff8c0c0c01f46c0b01d7060152a4070c01100d0c012f0b01de440e0c011c0d0c01e90901638c0e0c01"
+}

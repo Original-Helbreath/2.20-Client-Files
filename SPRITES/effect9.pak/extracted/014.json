@@ -1,0 +1,145 @@
+{
+ "image": "014.png",
+ "width": 355,
+ "height": 119,
+ "original_bpp": 8,
+ "original_pixels_sha1": "d583f979f52fe05186b73c6385fa0d72e281650d",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 31,
+   "height": 48,
+   "pivot_x": -91,
+   "pivot_y": -145
+  },
+  {
+   "x": 31,
+   "y": 0,
+   "width": 34,
+   "height": 50,
+   "pivot_x": -92,
+   "pivot_y": -145
+  },
+  {
+   "x": 65,
+   "y": 0,
+   "width": 38,
+   "height": 52,
+   "pivot_x": -94,
+   "pivot_y": -146
+  },
+  {
+   "x": 103,
+   "y": 0,
+   "width": 39,
+   "height": 54,
+   "pivot_x": -95,
+   "pivot_y": -146
+  },
+  {
+   "x": 142,
+   "y": 0,
+   "width": 41,
+   "height": 56,
+   "pivot_x": -96,
+   "pivot_y": -147
+  },
+  {
+   "x": 183,
+   "y": 0,
+   "width": 42,
+   "height": 58,
+   "pivot_x": -97,
+   "pivot_y": -148
+  },
+  {
+   "x": 225,
+   "y": 0,
+   "width": 43,
+   "height": 58,
+   "pivot_x": -97,
+   "pivot_y": -148
+  },
+  {
+   "x": 268,
+   "y": 0,
+   "width": 43,
+   "height": 57,
+   "pivot_x": -97,
+   "pivot_y": -148
+  },
+  {
+   "x": 311,
+   "y": 0,
+   "width": 43,
+   "height": 56,
+   "pivot_x": -97,
+   "pivot_y": -148
+  },
+  {
+   "x": 0,
+   "y": 58,
+   "width": 45,
+   "height": 58,
+   "pivot_x": -98,
+   "pivot_y": -148
+  },
+  {
+   "x": 45,
+   "y": 58,
+   "width": 46,
+   "height": 61,
+   "pivot_x": -98,
+   "pivot_y": -148
+  },
+  {
+   "x": 91,
+   "y": 58,
+   "width": 48,
+   "height": 59,
+   "pivot_x": -100,
+   "pivot_y": -148
+  },
+  {
+   "x": 139,
+   "y": 58,
+   "width": 49,
+   "height": 59,
+   "pivot_x": -100,
+   "pivot_y": -148
+  },
+  {
+   "x": 188,
+   "y": 58,
+   "width": 46,
+   "height": 58,
+   "pivot_x": -98,
+   "pivot_y": -148
+  },
+  {
+   "x": 234,
+   "y": 58,
+   "width": 43,
+   "height": 53,
+   "pivot_x": -97,
+   "pivot_y": -145
+  },
+  {
+   "x": 277,
+   "y": 58,
+   "width": 40,
+   "height": 55,
+   "pivot_x": -95,
+   "pivot_y": -148
+  },
+  {
+   "x": 317,
+   "y": 58,
+   "width": 38,
+   "height": 52,
+   "pivot_x": -94,
+   "pivot_y": -146
+  }
+ ]
+}

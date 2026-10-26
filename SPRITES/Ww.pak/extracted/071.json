@@ -1,0 +1,138 @@
+{
+ "image": "071.png",
+ "width": 334,
+ "height": 57,
+ "original_bpp": 24,
+ "original_pixels_sha1": "cedbf6fc00f7d645f925016f94db95b9f681c373",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 16,
+   "height": 57,
+   "pivot_x": -9,
+   "pivot_y": -55
+  },
+  {
+   "x": 16,
+   "y": 0,
+   "width": 16,
+   "height": 54,
+   "pivot_x": -9,
+   "pivot_y": -52
+  },
+  {
+   "x": 32,
+   "y": 0,
+   "width": 14,
+   "height": 52,
+   "pivot_x": -7,
+   "pivot_y": -50
+  },
+  {
+   "x": 46,
+   "y": 0,
+   "width": 15,
+   "height": 49,
+   "pivot_x": -7,
+   "pivot_y": -46
+  },
+  {
+   "x": 61,
+   "y": 0,
+   "width": 18,
+   "height": 48,
+   "pivot_x": -8,
+   "pivot_y": -43
+  },
+  {
+   "x": 79,
+   "y": 0,
+   "width": 20,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 99,
+   "y": 0,
+   "width": 20,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 119,
+   "y": 0,
+   "width": 20,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 139,
+   "y": 0,
+   "width": 20,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 159,
+   "y": 0,
+   "width": 21,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 180,
+   "y": 0,
+   "width": 23,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 203,
+   "y": 0,
+   "width": 33,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 236,
+   "y": 0,
+   "width": 33,
+   "height": 46,
+   "pivot_x": -9,
+   "pivot_y": -40
+  },
+  {
+   "x": 269,
+   "y": 0,
+   "width": 28,
+   "height": 49,
+   "pivot_x": -8,
+   "pivot_y": -45
+  },
+  {
+   "x": 297,
+   "y": 0,
+   "width": 21,
+   "height": 52,
+   "pivot_x": -9,
+   "pivot_y": -50
+  },
+  {
+   "x": 318,
+   "y": 0,
+   "width": 16,
+   "height": 56,
+   "pivot_x": -9,
+   "pivot_y": -55
+  }
+ ],
+ "header_pad": "0008014a2100000051000000fc944000000000002c0100002c0100002c010000010008000000c50238b8495fa1070152a1070152000000008300920028001b000000e300daffedff2e0801ce2cc74100"
+}

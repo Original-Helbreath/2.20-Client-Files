@@ -1,0 +1,138 @@
+{
+ "image": "012.png",
+ "width": 691,
+ "height": 169,
+ "original_bpp": 24,
+ "original_pixels_sha1": "6cddf0893c04c20cf6481a641bf6cf6cef2bc121",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 63,
+   "height": 59,
+   "pivot_x": -32,
+   "pivot_y": -26
+  },
+  {
+   "x": 63,
+   "y": 0,
+   "width": 74,
+   "height": 73,
+   "pivot_x": -38,
+   "pivot_y": -34
+  },
+  {
+   "x": 137,
+   "y": 0,
+   "width": 77,
+   "height": 76,
+   "pivot_x": -39,
+   "pivot_y": -36
+  },
+  {
+   "x": 214,
+   "y": 0,
+   "width": 80,
+   "height": 82,
+   "pivot_x": -41,
+   "pivot_y": -39
+  },
+  {
+   "x": 294,
+   "y": 0,
+   "width": 81,
+   "height": 85,
+   "pivot_x": -40,
+   "pivot_y": -41
+  },
+  {
+   "x": 375,
+   "y": 0,
+   "width": 83,
+   "height": 88,
+   "pivot_x": -40,
+   "pivot_y": -42
+  },
+  {
+   "x": 458,
+   "y": 0,
+   "width": 84,
+   "height": 86,
+   "pivot_x": -41,
+   "pivot_y": -39
+  },
+  {
+   "x": 542,
+   "y": 0,
+   "width": 86,
+   "height": 85,
+   "pivot_x": -42,
+   "pivot_y": -37
+  },
+  {
+   "x": 0,
+   "y": 88,
+   "width": 85,
+   "height": 81,
+   "pivot_x": -40,
+   "pivot_y": -35
+  },
+  {
+   "x": 85,
+   "y": 88,
+   "width": 84,
+   "height": 73,
+   "pivot_x": -38,
+   "pivot_y": -32
+  },
+  {
+   "x": 169,
+   "y": 88,
+   "width": 87,
+   "height": 72,
+   "pivot_x": -40,
+   "pivot_y": -33
+  },
+  {
+   "x": 256,
+   "y": 88,
+   "width": 88,
+   "height": 74,
+   "pivot_x": -41,
+   "pivot_y": -34
+  },
+  {
+   "x": 344,
+   "y": 88,
+   "width": 89,
+   "height": 75,
+   "pivot_x": -42,
+   "pivot_y": -34
+  },
+  {
+   "x": 433,
+   "y": 88,
+   "width": 90,
+   "height": 79,
+   "pivot_x": -43,
+   "pivot_y": -36
+  },
+  {
+   "x": 523,
+   "y": 88,
+   "width": 91,
+   "height": 79,
+   "pivot_x": -44,
+   "pivot_y": -36
+  },
+  {
+   "x": 614,
+   "y": 88,
+   "width": 77,
+   "height": 81,
+   "pivot_x": -45,
+   "pivot_y": -37
+  }
+ ],
+ "header_pad": "0035140001000000000000000500050000010800000000006300680069006e0065005c00000000000000000000000000000000001900050000010800b87634006300680069006e0065005c0053007900"
+}

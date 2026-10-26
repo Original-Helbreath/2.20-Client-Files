@@ -1,0 +1,145 @@
+{
+ "image": "006.png",
+ "width": 564,
+ "height": 380,
+ "original_bpp": 24,
+ "original_pixels_sha1": "2596774954ba22fdfb5e7b743361aaa9c932157a",
+ "frames": [
+  {
+   "x": 6,
+   "y": 277,
+   "width": 32,
+   "height": 93,
+   "pivot_x": 0,
+   "pivot_y": -74
+  },
+  {
+   "x": 38,
+   "y": 268,
+   "width": 32,
+   "height": 102,
+   "pivot_x": 0,
+   "pivot_y": -83
+  },
+  {
+   "x": 70,
+   "y": 156,
+   "width": 32,
+   "height": 214,
+   "pivot_x": 0,
+   "pivot_y": -195
+  },
+  {
+   "x": 102,
+   "y": 147,
+   "width": 32,
+   "height": 223,
+   "pivot_x": 0,
+   "pivot_y": -204
+  },
+  {
+   "x": 134,
+   "y": 139,
+   "width": 32,
+   "height": 231,
+   "pivot_x": 0,
+   "pivot_y": -212
+  },
+  {
+   "x": 166,
+   "y": 130,
+   "width": 32,
+   "height": 240,
+   "pivot_x": 0,
+   "pivot_y": -221
+  },
+  {
+   "x": 198,
+   "y": 87,
+   "width": 32,
+   "height": 283,
+   "pivot_x": 0,
+   "pivot_y": -264
+  },
+  {
+   "x": 230,
+   "y": 79,
+   "width": 32,
+   "height": 291,
+   "pivot_x": 0,
+   "pivot_y": -272
+  },
+  {
+   "x": 262,
+   "y": 74,
+   "width": 32,
+   "height": 296,
+   "pivot_x": 0,
+   "pivot_y": -277
+  },
+  {
+   "x": 294,
+   "y": 89,
+   "width": 32,
+   "height": 281,
+   "pivot_x": 0,
+   "pivot_y": -262
+  },
+  {
+   "x": 326,
+   "y": 86,
+   "width": 32,
+   "height": 284,
+   "pivot_x": 0,
+   "pivot_y": -265
+  },
+  {
+   "x": 358,
+   "y": 39,
+   "width": 32,
+   "height": 331,
+   "pivot_x": 0,
+   "pivot_y": -312
+  },
+  {
+   "x": 390,
+   "y": 36,
+   "width": 32,
+   "height": 334,
+   "pivot_x": 0,
+   "pivot_y": -315
+  },
+  {
+   "x": 422,
+   "y": 72,
+   "width": 32,
+   "height": 298,
+   "pivot_x": 0,
+   "pivot_y": -279
+  },
+  {
+   "x": 454,
+   "y": 84,
+   "width": 32,
+   "height": 286,
+   "pivot_x": 0,
+   "pivot_y": -267
+  },
+  {
+   "x": 486,
+   "y": 156,
+   "width": 32,
+   "height": 214,
+   "pivot_x": 0,
+   "pivot_y": -195
+  },
+  {
+   "x": 518,
+   "y": 336,
+   "width": 32,
+   "height": 34,
+   "pivot_x": 0,
+   "pivot_y": -15
+  }
+ ]
+}

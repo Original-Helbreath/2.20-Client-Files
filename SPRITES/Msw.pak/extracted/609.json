@@ -1,0 +1,74 @@
+{
+ "image": "609.png",
+ "width": 174,
+ "height": 57,
+ "original_bpp": 24,
+ "original_pixels_sha1": "44bfa2c3ccd0b66483679a184be18346b4eb0ccd",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 29,
+   "height": 26,
+   "pivot_x": -9,
+   "pivot_y": -64
+  },
+  {
+   "x": 29,
+   "y": 0,
+   "width": 16,
+   "height": 52,
+   "pivot_x": 4,
+   "pivot_y": -78
+  },
+  {
+   "x": 45,
+   "y": 0,
+   "width": 13,
+   "height": 57,
+   "pivot_x": 9,
+   "pivot_y": -73
+  },
+  {
+   "x": 58,
+   "y": 0,
+   "width": 28,
+   "height": 39,
+   "pivot_x": 1,
+   "pivot_y": -57
+  },
+  {
+   "x": 86,
+   "y": 0,
+   "width": 31,
+   "height": 28,
+   "pivot_x": -2,
+   "pivot_y": -46
+  },
+  {
+   "x": 117,
+   "y": 0,
+   "width": 28,
+   "height": 40,
+   "pivot_x": 1,
+   "pivot_y": -56
+  },
+  {
+   "x": 145,
+   "y": 0,
+   "width": 13,
+   "height": 57,
+   "pivot_x": 9,
+   "pivot_y": -74
+  },
+  {
+   "x": 158,
+   "y": 0,
+   "width": 16,
+   "height": 52,
+   "pivot_x": 4,
+   "pivot_y": -80
+  }
+ ],
+ "header_pad": "000018002100000051000000fc944000000000002c0100002c01000084030000010018000000b90f38b8495fef0c01e8ef0c01e80000000081007a0031000f0000001e00c2ffebff2c01000084030000"
+}

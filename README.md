@@ -13,6 +13,17 @@ So 2.23 is the closest to 2.20 that exists. The client's `MAPDATA/` folder is no
 they are kept for reference in [2.20-Reference](https://github.com/Original-Helbreath/2.20-Reference). About 49 sprite paks and some sounds that the 2.20 client loads are in neither (see the project board).
 The `.pak` format is documented in [PAKLib](https://github.com/shadowevil/PAKLib).
 
+## Sprites
+
+Each sprite pak has its own folder: `SPRITES/<name>.pak/<name>.pak` is the pak, and `SPRITES/<name>.pak/extracted/`
+holds one PNG and one JSON per sheet (frame rectangles and pivots, plus the bytes the client skips), made with
+`pak/pak_tool.py` from [Tools](https://github.com/Original-Helbreath/Tools). `WHelm2.pak`, `WHelm3.pak` and
+`WHelm5.pak` are empty files, as shipped, and have nothing extracted.
+
+The client opens `sprites\<name>.pak` as a file, so this folder is not playable as it is. Lay out an install with
+`deploy/deploy_client.py` from Tools, which copies everything and puts each pak flat in `SPRITES/`
+(`--build-paks` rebuilds each pak from `extracted/` first, so edited PNGs or frames take effect).
+
 ## Data files as JSON
 
 The client reads its text data files as JSON now (formats: 2.20-Client-Source `docs/data-formats.md`).

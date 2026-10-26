@@ -1,0 +1,17 @@
+{
+ "image": "008.png",
+ "width": 238,
+ "height": 104,
+ "original_bpp": 1,
+ "original_pixels_sha1": "9505c4d9bb72e7599be81d228a99f6426ac17e61",
+ "frames": [
+  {
+   "x": 2,
+   "y": 2,
+   "width": 235,
+   "height": 100,
+   "pivot_x": -114,
+   "pivot_y": -82
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "image": "007.png",
+ "width": 1102,
+ "height": 60,
+ "original_bpp": 24,
+ "original_pixels_sha1": "f6f60a92cd8c2209ae11aa7f4f6d418d77cedc01",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 63,
+   "height": 35,
+   "pivot_x": -32,
+   "pivot_y": -24
+  },
+  {
+   "x": 63,
+   "y": 0,
+   "width": 63,
+   "height": 37,
+   "pivot_x": -32,
+   "pivot_y": -26
+  },
+  {
+   "x": 126,
+   "y": 0,
+   "width": 65,
+   "height": 37,
+   "pivot_x": -33,
+   "pivot_y": -25
+  },
+  {
+   "x": 191,
+   "y": 0,
+   "width": 65,
+   "height": 37,
+   "pivot_x": -33,
+   "pivot_y": -25
+  },
+  {
+   "x": 256,
+   "y": 0,
+   "width": 65,
+   "height": 44,
+   "pivot_x": -33,
+   "pivot_y": -27
+  },
+  {
+   "x": 321,
+   "y": 0,
+   "width": 65,
+   "height": 51,
+   "pivot_x": -33,
+   "pivot_y": -31
+  },
+  {
+   "x": 386,
+   "y": 0,
+   "width": 66,
+   "height": 56,
+   "pivot_x": -34,
+   "pivot_y": -33
+  },
+  {
+   "x": 452,
+   "y": 0,
+   "width": 67,
+   "height": 60,
+   "pivot_x": -35,
+   "pivot_y": -35
+  },
+  {
+   "x": 519,
+   "y": 0,
+   "width": 68,
+   "height": 60,
+   "pivot_x": -36,
+   "pivot_y": -35
+  },
+  {
+   "x": 587,
+   "y": 0,
+   "width": 66,
+   "height": 58,
+   "pivot_x": -34,
+   "pivot_y": -34
+  },
+  {
+   "x": 653,
+   "y": 0,
+   "width": 65,
+   "height": 51,
+   "pivot_x": -33,
+   "pivot_y": -31
+  },
+  {
+   "x": 718,
+   "y": 0,
+   "width": 65,
+   "height": 44,
+   "pivot_x": -33,
+   "pivot_y": -27
+  },
+  {
+   "x": 783,
+   "y": 0,
+   "width": 65,
+   "height": 37,
+   "pivot_x": -33,
+   "pivot_y": -25
+  },
+  {
+   "x": 848,
+   "y": 0,
+   "width": 65,
+   "height": 37,
+   "pivot_x": -33,
+   "pivot_y": -25
+  },
+  {
+   "x": 913,
+   "y": 0,
+   "width": 63,
+   "height": 37,
+   "pivot_x": -32,
+   "pivot_y": -26
+  },
+  {
+   "x": 976,
+   "y": 0,
+   "width": 63,
+   "height": 35,
+   "pivot_x": -32,
+   "pivot_y": -24
+  },
+  {
+   "x": 1039,
+   "y": 0,
+   "width": 63,
+   "height": 35,
+   "pivot_x": -32,
+   "pivot_y": -24
+  }
+ ],
+ "header_pad": "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004500000000000000000000000000000000000000000000000000000000000000000000"
+}

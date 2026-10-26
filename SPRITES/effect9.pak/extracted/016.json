@@ -1,0 +1,145 @@
+{
+ "image": "016.png",
+ "width": 546,
+ "height": 173,
+ "original_bpp": 8,
+ "original_pixels_sha1": "98a232b19f33576c19fe04d8c02394bd9d8b9335",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 16,
+   "height": 13,
+   "pivot_x": -61,
+   "pivot_y": -52
+  },
+  {
+   "x": 16,
+   "y": 0,
+   "width": 26,
+   "height": 17,
+   "pivot_x": -70,
+   "pivot_y": -55
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 33,
+   "height": 22,
+   "pivot_x": -76,
+   "pivot_y": -60
+  },
+  {
+   "x": 75,
+   "y": 0,
+   "width": 37,
+   "height": 29,
+   "pivot_x": -78,
+   "pivot_y": -67
+  },
+  {
+   "x": 112,
+   "y": 0,
+   "width": 47,
+   "height": 40,
+   "pivot_x": -80,
+   "pivot_y": -75
+  },
+  {
+   "x": 159,
+   "y": 0,
+   "width": 55,
+   "height": 51,
+   "pivot_x": -83,
+   "pivot_y": -84
+  },
+  {
+   "x": 214,
+   "y": 0,
+   "width": 58,
+   "height": 60,
+   "pivot_x": -85,
+   "pivot_y": -92
+  },
+  {
+   "x": 272,
+   "y": 0,
+   "width": 60,
+   "height": 66,
+   "pivot_x": -85,
+   "pivot_y": -97
+  },
+  {
+   "x": 332,
+   "y": 0,
+   "width": 61,
+   "height": 74,
+   "pivot_x": -85,
+   "pivot_y": -104
+  },
+  {
+   "x": 0,
+   "y": 74,
+   "width": 64,
+   "height": 81,
+   "pivot_x": -86,
+   "pivot_y": -110
+  },
+  {
+   "x": 64,
+   "y": 74,
+   "width": 66,
+   "height": 88,
+   "pivot_x": -87,
+   "pivot_y": -117
+  },
+  {
+   "x": 130,
+   "y": 74,
+   "width": 68,
+   "height": 94,
+   "pivot_x": -88,
+   "pivot_y": -122
+  },
+  {
+   "x": 198,
+   "y": 74,
+   "width": 69,
+   "height": 97,
+   "pivot_x": -88,
+   "pivot_y": -125
+  },
+  {
+   "x": 267,
+   "y": 74,
+   "width": 69,
+   "height": 99,
+   "pivot_x": -86,
+   "pivot_y": -127
+  },
+  {
+   "x": 336,
+   "y": 74,
+   "width": 69,
+   "height": 97,
+   "pivot_x": -86,
+   "pivot_y": -130
+  },
+  {
+   "x": 405,
+   "y": 74,
+   "width": 70,
+   "height": 92,
+   "pivot_x": -86,
+   "pivot_y": -131
+  },
+  {
+   "x": 475,
+   "y": 74,
+   "width": 71,
+   "height": 91,
+   "pivot_x": -86,
+   "pivot_y": -132
+  }
+ ]
+}

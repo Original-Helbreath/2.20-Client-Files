@@ -1,0 +1,6 @@
+{
+ "format": "helbreath-pak",
+ "source": "maptiles4.pak",
+ "sheets": 10,
+ "header_tail": "202020"
+}

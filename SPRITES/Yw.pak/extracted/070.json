@@ -1,0 +1,138 @@
+{
+ "image": "070.png",
+ "width": 352,
+ "height": 57,
+ "original_bpp": 24,
+ "original_pixels_sha1": "cbccd1bbacb1b8eb72c6e006c31c6bbda0a4c9d5",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 10,
+   "height": 57,
+   "pivot_x": -6,
+   "pivot_y": -55
+  },
+  {
+   "x": 10,
+   "y": 0,
+   "width": 13,
+   "height": 54,
+   "pivot_x": -7,
+   "pivot_y": -52
+  },
+  {
+   "x": 23,
+   "y": 0,
+   "width": 17,
+   "height": 51,
+   "pivot_x": -8,
+   "pivot_y": -49
+  },
+  {
+   "x": 40,
+   "y": 0,
+   "width": 20,
+   "height": 47,
+   "pivot_x": -8,
+   "pivot_y": -45
+  },
+  {
+   "x": 60,
+   "y": 0,
+   "width": 22,
+   "height": 44,
+   "pivot_x": -7,
+   "pivot_y": -42
+  },
+  {
+   "x": 82,
+   "y": 0,
+   "width": 26,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 108,
+   "y": 0,
+   "width": 36,
+   "height": 40,
+   "pivot_x": -18,
+   "pivot_y": -38
+  },
+  {
+   "x": 144,
+   "y": 0,
+   "width": 28,
+   "height": 39,
+   "pivot_x": -10,
+   "pivot_y": -37
+  },
+  {
+   "x": 172,
+   "y": 0,
+   "width": 27,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 199,
+   "y": 0,
+   "width": 27,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 226,
+   "y": 0,
+   "width": 27,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 253,
+   "y": 0,
+   "width": 26,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 279,
+   "y": 0,
+   "width": 26,
+   "height": 40,
+   "pivot_x": -9,
+   "pivot_y": -38
+  },
+  {
+   "x": 305,
+   "y": 0,
+   "width": 21,
+   "height": 45,
+   "pivot_x": -8,
+   "pivot_y": -43
+  },
+  {
+   "x": 326,
+   "y": 0,
+   "width": 16,
+   "height": 52,
+   "pivot_x": -8,
+   "pivot_y": -50
+  },
+  {
+   "x": 342,
+   "y": 0,
+   "width": 10,
+   "height": 57,
+   "pivot_x": -6,
+   "pivot_y": -55
+  }
+ ],
+ "header_pad": "000000002100000041000000c0274200d00a4200ab0505db542a4200d4294200980705375c2a4200401042009e06055e642a4200dc274200ea0605cd6c2a420000000000410000004100000030144200"
+}

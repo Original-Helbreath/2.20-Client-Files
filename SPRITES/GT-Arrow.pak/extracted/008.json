@@ -1,0 +1,19 @@
+{
+ "image": "008.png",
+ "width": 74,
+ "height": 153,
+ "original_bpp": 24,
+ "original_pixels_sha1": "ac1b7a91d3eb3e3b0dfddb7e4008aecb2bd34637",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 74,
+   "height": 153,
+   "pivot_x": -37,
+   "pivot_y": -142
+  }
+ ],
+ "header_pad": "0000000000000000000000000300050000010800d0f33400c00134002c0100002c010000030003000001080078f13400a801340000000000000000000300030000010800c8f53400900134008bffd0ff",
+ "pre_bitmap": "00008000"
+}

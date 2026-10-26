@@ -1,0 +1,138 @@
+{
+ "image": "001.png",
+ "width": 1291,
+ "height": 207,
+ "original_bpp": 24,
+ "original_pixels_sha1": "bad315582790e8b8f9e22f26b23d3d5f11353ae5",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 60,
+   "height": 45,
+   "pivot_x": -28,
+   "pivot_y": 3
+  },
+  {
+   "x": 60,
+   "y": 0,
+   "width": 157,
+   "height": 90,
+   "pivot_x": -71,
+   "pivot_y": -26
+  },
+  {
+   "x": 217,
+   "y": 0,
+   "width": 160,
+   "height": 70,
+   "pivot_x": -84,
+   "pivot_y": -18
+  },
+  {
+   "x": 377,
+   "y": 0,
+   "width": 154,
+   "height": 99,
+   "pivot_x": -68,
+   "pivot_y": -26
+  },
+  {
+   "x": 531,
+   "y": 0,
+   "width": 177,
+   "height": 94,
+   "pivot_x": -86,
+   "pivot_y": -26
+  },
+  {
+   "x": 708,
+   "y": 0,
+   "width": 180,
+   "height": 93,
+   "pivot_x": -89,
+   "pivot_y": -26
+  },
+  {
+   "x": 888,
+   "y": 0,
+   "width": 172,
+   "height": 102,
+   "pivot_x": -101,
+   "pivot_y": -26
+  },
+  {
+   "x": 1060,
+   "y": 0,
+   "width": 140,
+   "height": 103,
+   "pivot_x": -67,
+   "pivot_y": -29
+  },
+  {
+   "x": 0,
+   "y": 103,
+   "width": 174,
+   "height": 104,
+   "pivot_x": -75,
+   "pivot_y": -29
+  },
+  {
+   "x": 174,
+   "y": 103,
+   "width": 181,
+   "height": 93,
+   "pivot_x": -86,
+   "pivot_y": -28
+  },
+  {
+   "x": 355,
+   "y": 103,
+   "width": 171,
+   "height": 100,
+   "pivot_x": -99,
+   "pivot_y": -28
+  },
+  {
+   "x": 526,
+   "y": 103,
+   "width": 169,
+   "height": 95,
+   "pivot_x": -76,
+   "pivot_y": -27
+  },
+  {
+   "x": 695,
+   "y": 103,
+   "width": 145,
+   "height": 93,
+   "pivot_x": -75,
+   "pivot_y": -22
+  },
+  {
+   "x": 840,
+   "y": 103,
+   "width": 150,
+   "height": 98,
+   "pivot_x": -74,
+   "pivot_y": -22
+  },
+  {
+   "x": 990,
+   "y": 103,
+   "width": 151,
+   "height": 94,
+   "pivot_x": -77,
+   "pivot_y": -21
+  },
+  {
+   "x": 1141,
+   "y": 103,
+   "width": 150,
+   "height": 95,
+   "pivot_x": -75,
+   "pivot_y": -19
+  }
+ ],
+ "header_pad": "00f7410050f8410090f8410040fa4100000000000000000000000000fc944000000000002c0100002c010000840300000100180000002301ccc5495ff71201dcf71201dc0000000031009e006600ac00"
+}

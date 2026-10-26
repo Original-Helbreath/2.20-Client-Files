@@ -1,0 +1,138 @@
+{
+ "image": "071.png",
+ "width": 427,
+ "height": 61,
+ "original_bpp": 24,
+ "original_pixels_sha1": "7408a6f7b698cbbfbd4e82af129a77664bbe318e",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 25,
+   "height": 60,
+   "pivot_x": -13,
+   "pivot_y": -57
+  },
+  {
+   "x": 25,
+   "y": 0,
+   "width": 27,
+   "height": 60,
+   "pivot_x": -15,
+   "pivot_y": -57
+  },
+  {
+   "x": 52,
+   "y": 0,
+   "width": 25,
+   "height": 60,
+   "pivot_x": -14,
+   "pivot_y": -57
+  },
+  {
+   "x": 77,
+   "y": 0,
+   "width": 20,
+   "height": 60,
+   "pivot_x": -11,
+   "pivot_y": -57
+  },
+  {
+   "x": 97,
+   "y": 0,
+   "width": 26,
+   "height": 60,
+   "pivot_x": -14,
+   "pivot_y": -57
+  },
+  {
+   "x": 123,
+   "y": 0,
+   "width": 26,
+   "height": 60,
+   "pivot_x": -14,
+   "pivot_y": -57
+  },
+  {
+   "x": 149,
+   "y": 0,
+   "width": 20,
+   "height": 60,
+   "pivot_x": -11,
+   "pivot_y": -57
+  },
+  {
+   "x": 169,
+   "y": 0,
+   "width": 22,
+   "height": 60,
+   "pivot_x": -13,
+   "pivot_y": -57
+  },
+  {
+   "x": 191,
+   "y": 0,
+   "width": 26,
+   "height": 61,
+   "pivot_x": -15,
+   "pivot_y": -58
+  },
+  {
+   "x": 217,
+   "y": 0,
+   "width": 23,
+   "height": 60,
+   "pivot_x": -13,
+   "pivot_y": -57
+  },
+  {
+   "x": 240,
+   "y": 0,
+   "width": 23,
+   "height": 60,
+   "pivot_x": -13,
+   "pivot_y": -57
+  },
+  {
+   "x": 263,
+   "y": 0,
+   "width": 32,
+   "height": 61,
+   "pivot_x": -18,
+   "pivot_y": -58
+  },
+  {
+   "x": 295,
+   "y": 0,
+   "width": 29,
+   "height": 60,
+   "pivot_x": -16,
+   "pivot_y": -57
+  },
+  {
+   "x": 324,
+   "y": 0,
+   "width": 24,
+   "height": 60,
+   "pivot_x": -14,
+   "pivot_y": -57
+  },
+  {
+   "x": 348,
+   "y": 0,
+   "width": 23,
+   "height": 60,
+   "pivot_x": -13,
+   "pivot_y": -57
+  },
+  {
+   "x": 371,
+   "y": 0,
+   "width": 56,
+   "height": 60,
+   "pivot_x": -28,
+   "pivot_y": -57
+  }
+ ],
+ "header_pad": "0000000011000000453a5c54656d705c4173645c776d616d67000000000000001200000012000000453a5c54656d705c4173645c776d616d675f0000000000001400000014000000453a5c54656d705c"
+}

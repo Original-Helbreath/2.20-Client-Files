@@ -1,0 +1,138 @@
+{
+ "image": "065.png",
+ "width": 347,
+ "height": 56,
+ "original_bpp": 24,
+ "original_pixels_sha1": "044357c1c7a507f2ea0626bbcd29080773276911",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 17,
+   "height": 56,
+   "pivot_x": -8,
+   "pivot_y": -55
+  },
+  {
+   "x": 17,
+   "y": 0,
+   "width": 16,
+   "height": 53,
+   "pivot_x": -7,
+   "pivot_y": -52
+  },
+  {
+   "x": 33,
+   "y": 0,
+   "width": 15,
+   "height": 51,
+   "pivot_x": -8,
+   "pivot_y": -49
+  },
+  {
+   "x": 48,
+   "y": 0,
+   "width": 15,
+   "height": 50,
+   "pivot_x": -9,
+   "pivot_y": -46
+  },
+  {
+   "x": 63,
+   "y": 0,
+   "width": 17,
+   "height": 49,
+   "pivot_x": -10,
+   "pivot_y": -43
+  },
+  {
+   "x": 80,
+   "y": 0,
+   "width": 21,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 101,
+   "y": 0,
+   "width": 26,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 127,
+   "y": 0,
+   "width": 23,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 150,
+   "y": 0,
+   "width": 21,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 171,
+   "y": 0,
+   "width": 20,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 191,
+   "y": 0,
+   "width": 23,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 214,
+   "y": 0,
+   "width": 35,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 249,
+   "y": 0,
+   "width": 35,
+   "height": 47,
+   "pivot_x": -12,
+   "pivot_y": -40
+  },
+  {
+   "x": 284,
+   "y": 0,
+   "width": 28,
+   "height": 50,
+   "pivot_x": -11,
+   "pivot_y": -45
+  },
+  {
+   "x": 312,
+   "y": 0,
+   "width": 18,
+   "height": 53,
+   "pivot_x": -9,
+   "pivot_y": -50
+  },
+  {
+   "x": 330,
+   "y": 0,
+   "width": 17,
+   "height": 56,
+   "pivot_x": -8,
+   "pivot_y": -55
+  }
+ ],
+ "header_pad": "000000002100000041000000c0274200d00a4200ab0505db542a4200d4294200980705375c2a4200401042009e06055e642a4200dc274200ea0605cd6c2a420000000000410000004100000030144200"
+}

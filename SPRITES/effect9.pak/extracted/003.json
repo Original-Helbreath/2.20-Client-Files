@@ -1,0 +1,161 @@
+{
+ "image": "003.png",
+ "width": 86,
+ "height": 19,
+ "original_bpp": 8,
+ "original_pixels_sha1": "4e80c466c903c9fd8300851d814d48581da1850e",
+ "frames": [
+  {
+   "x": 0,
+   "y": 0,
+   "width": 7,
+   "height": 7,
+   "pivot_x": -4,
+   "pivot_y": -3
+  },
+  {
+   "x": 7,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 16,
+   "y": 0,
+   "width": 8,
+   "height": 8,
+   "pivot_x": -5,
+   "pivot_y": -3
+  },
+  {
+   "x": 24,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 33,
+   "y": 0,
+   "width": 9,
+   "height": 8,
+   "pivot_x": -5,
+   "pivot_y": -3
+  },
+  {
+   "x": 42,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 51,
+   "y": 0,
+   "width": 8,
+   "height": 8,
+   "pivot_x": -4,
+   "pivot_y": -3
+  },
+  {
+   "x": 59,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 68,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 77,
+   "y": 0,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 0,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 9,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 18,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 27,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 36,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 45,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 54,
+   "y": 9,
+   "width": 10,
+   "height": 10,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 64,
+   "y": 9,
+   "width": 10,
+   "height": 10,
+   "pivot_x": -5,
+   "pivot_y": -4
+  },
+  {
+   "x": 74,
+   "y": 9,
+   "width": 9,
+   "height": 9,
+   "pivot_x": -5,
+   "pivot_y": -4
+  }
+ ]
+}
