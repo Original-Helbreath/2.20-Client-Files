@@ -1,0 +1,34 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents804.txt",
+    "size": 603,
+    "sha256": "55d01095eefccb45177f8cff2b225b2f1b3ac00255a0084d1ace9633f3a8b3ca"
+  },
+  "lines": [
+    "Soldier's teleport ability ",
+    "The soldier can teleport directly",
+    "to the middleland after the",
+    "commander sets the position.",
+    " ",
+    "In the menu you will be able to",
+    "see a yellow mark in the middleland",
+    "map and that's the location.",
+    "If you can't see the yellow mark ",
+    "it means that the commander didn't ",
+    "set the location yet.",
+    "Clicking once again you will be",
+    "teleported to the destination. ",
+    " ",
+    "Normally, the commander sets the",
+    "teleport position near the mana",
+    "stone, and notices using the guild",
+    "chat to the soldiers and at the",
+    "same time click the teleport",
+    "button and excecute the strategy.",
+    " ",
+    " "
+  ]
+}

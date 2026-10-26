@@ -1,0 +1,13 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents123.txt",
+    "size": 26,
+    "sha256": "0d8a4ede16502c5415541de2852b2e18b26b76b581526d834c64191a64591f0d"
+  },
+  "lines": [
+    "\"Guard! Call the guard!\""
+  ]
+}

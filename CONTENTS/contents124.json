@@ -1,0 +1,13 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents124.txt",
+    "size": 10,
+    "sha256": "a0488c83abd36232df714226e8b957b50f76f17d3d57e360dc486e39d7c52875"
+  },
+  "lines": [
+    "\"Hello?\""
+  ]
+}

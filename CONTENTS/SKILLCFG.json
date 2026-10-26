@@ -1,0 +1,156 @@
+{
+  "format": "skill-config",
+  "version": 1,
+  "encoding": "cp949",
+  "source": {
+    "file": "SKILLCFG.TXT",
+    "size": 914,
+    "sha256": "46b5023977896ed258175162d4df28e54d0de47d6fc8027bfeed728c1d4cc42e"
+  },
+  "skills": [
+    {
+      "id": 0,
+      "name": "Mining",
+      "useable": 0,
+      "use_method": 1
+    },
+    {
+      "id": 1,
+      "name": "Fishing",
+      "useable": 0,
+      "use_method": 1
+    },
+    {
+      "id": 2,
+      "name": "Farming",
+      "useable": 0,
+      "use_method": 1
+    },
+    {
+      "id": 3,
+      "name": "Magic-Registance",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 4,
+      "name": "Magic",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 5,
+      "name": "Hand-Attack",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 6,
+      "name": "Arrow-Attack",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 7,
+      "name": "Short-Sword",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 8,
+      "name": "Long-Sword",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 9,
+      "name": "Fencing",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 10,
+      "name": "Axe-Attack",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 11,
+      "name": "Shield",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 12,
+      "name": "Architecture",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 13,
+      "name": "Manufacturing",
+      "useable": 0,
+      "use_method": 2
+    },
+    {
+      "id": 14,
+      "name": "????",
+      "useable": 1,
+      "use_method": 2
+    },
+    {
+      "id": 15,
+      "name": "????",
+      "useable": 1,
+      "use_method": 1
+    },
+    {
+      "id": 16,
+      "name": "????",
+      "useable": 1,
+      "use_method": 1
+    },
+    {
+      "id": 17,
+      "name": "????",
+      "useable": 1,
+      "use_method": 0
+    },
+    {
+      "id": 18,
+      "name": "????",
+      "useable": 1,
+      "use_method": 1
+    },
+    {
+      "id": 19,
+      "name": "Pretend-Corpse",
+      "useable": 1,
+      "use_method": 0
+    },
+    {
+      "id": 20,
+      "name": "Taming",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 21,
+      "name": "Staff-Attack",
+      "useable": 0,
+      "use_method": 0
+    },
+    {
+      "id": 22,
+      "name": "????",
+      "useable": 1,
+      "use_method": 2
+    },
+    {
+      "id": 23,
+      "name": "Poison-Registance",
+      "useable": 0,
+      "use_method": 0
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents20.txt",
+    "size": 17,
+    "sha256": "5289e48d107b80fedd9009c3881381302304452096254071ae896238a3754b7f"
+  },
+  "lines": [
+    "\"You're welcome.\""
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents134.txt",
+    "size": 92,
+    "sha256": "c65bf80440e2107cd36ad92aeb838c57a7039bb501dab969871fd6f248acf151"
+  },
+  "lines": [
+    "\"Oh! Is that you? Congratulations!",
+    "You have finally succeeded in",
+    "completing your mission.\""
+  ]
+}

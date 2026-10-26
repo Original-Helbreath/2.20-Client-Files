@@ -13,6 +13,27 @@ So 2.23 is the closest to 2.20 that exists. The client's `MAPDATA/` folder is no
 they are kept for reference in [2.20-Reference](https://github.com/Original-Helbreath/2.20-Reference). About 49 sprite paks and some sounds that the 2.20 client loads are in neither (see the project board).
 The `.pak` format is documented in [PAKLib](https://github.com/shadowevil/PAKLib).
 
+## Data files as JSON
+
+The client reads its text data files as JSON now (formats: 2.20-Client-Source `docs/data-formats.md`).
+On this branch the following files were converted with `client-data/convert_client_data.py` from
+[Tools](https://github.com/Original-Helbreath/Tools), and the original text files were removed; the
+`original` branch keeps them unchanged.
+
+| Original | JSON |
+|---|---|
+| `LOGIN.CFG` | `LOGIN.json` |
+| `CONTENTS/contents<N>.txt`, `CONTENTS/Contents<N>.txt` (49 files) | `CONTENTS/contents<N>.json` (same names, `.json`) |
+| `CONTENTS/GameMsgList.txt` | `CONTENTS/GameMsgList.json` |
+| `CONTENTS/BItemcfg.txt` | `CONTENTS/BItemcfg.json` |
+| `CONTENTS/MAGICCFG.TXT` | `CONTENTS/MAGICCFG.json` |
+| `CONTENTS/SKILLCFG.TXT` | `CONTENTS/SKILLCFG.json` |
+| `CONTENTS/badword.txt` (XOR-obfuscated) | `CONTENTS/badword.json` (plain) |
+
+`CONTENTS/ItemName.cfg` stays a text file: the client still reads it as text. Korean strings were
+cp949 in the originals; each JSON file records its source encoding. The shipped `badword.txt` uses
+the older headerless XOR form, which the 2.20 client's own decoder rejected; its JSON form loads.
+
 ## Branches
 
 | Branch | Purpose |

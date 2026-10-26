@@ -1,0 +1,26 @@
+{
+  "format": "contents",
+  "version": 1,
+  "encoding": "ascii",
+  "source": {
+    "file": "contents812.txt",
+    "size": 546,
+    "sha256": "58de87e256034b2d449da2f22dadf7de9b255cb92a6ec888f1b2d6b96e43da25"
+  },
+  "lines": [
+    "Construction position setting function ",
+    "The commander has got the possibility to set",
+    "the location which will make the building to",
+    "the guild assigned erectors. This function",
+    "makes the constructor to build as the",
+    "commander's opinion with a systematize",
+    "strategy in the place decided.",
+    "The usual commander sets the position in the",
+    "middle land near \"Mana Stone\" and also",
+    "commands to build near the Mana collector.",
+    " ",
+    "Only the commander can see the position of",
+    "the \"Mana Stone\". If the location is not set",
+    "the constructor can't build it."
+  ]
+}

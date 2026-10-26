@@ -1,0 +1,2487 @@
+{
+  "format": "build-items",
+  "version": 1,
+  "encoding": "cp949",
+  "source": {
+    "file": "BItemcfg.txt",
+    "size": 10234,
+    "sha256": "9085bfc9e7fdc3a4fa4bd5d242bb496dc33ad2fc24e0cc941b33154fc8bee63a"
+  },
+  "items": [
+    {
+      "name": "고화력탄",
+      "elements": [
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 20,
+      "sprite": 6,
+      "sprite_frame": 88,
+      "max_skill": 30
+    },
+    {
+      "name": "초화력탄",
+      "elements": [
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 80,
+      "sprite": 6,
+      "sprite_frame": 88,
+      "max_skill": 90
+    },
+    {
+      "name": "철괴",
+      "elements": [
+        {
+          "name": "철광석",
+          "count": 1
+        },
+        {
+          "name": "철광석",
+          "count": 1
+        },
+        {
+          "name": "철광석",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 20,
+      "sprite": 6,
+      "sprite_frame": 76,
+      "max_skill": 30
+    },
+    {
+      "name": "미스릴괴",
+      "elements": [
+        {
+          "name": "미스릴",
+          "count": 1
+        },
+        {
+          "name": "미스릴",
+          "count": 1
+        },
+        {
+          "name": "미스릴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 85,
+      "sprite": 6,
+      "sprite_frame": 78,
+      "max_skill": 95
+    },
+    {
+      "name": "단검",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 30,
+      "sprite": 1,
+      "sprite_frame": 0,
+      "max_skill": 40
+    },
+    {
+      "name": "쇼트-소드",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 1,
+      "sprite_frame": 1,
+      "max_skill": 50
+    },
+    {
+      "name": "망고슈",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 1,
+      "sprite_frame": 1,
+      "max_skill": 60
+    },
+    {
+      "name": "그라디우스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 1,
+      "sprite_frame": 1,
+      "max_skill": 70
+    },
+    {
+      "name": "롱-소드",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 1,
+      "sprite_frame": 2,
+      "max_skill": 50
+    },
+    {
+      "name": "세이버",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 1,
+      "sprite_frame": 3,
+      "max_skill": 60
+    },
+    {
+      "name": "시미타",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 1,
+      "sprite_frame": 4,
+      "max_skill": 70
+    },
+    {
+      "name": "팔치온",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 70,
+      "sprite": 1,
+      "sprite_frame": 5,
+      "max_skill": 80
+    },
+    {
+      "name": "에스터크",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 50
+    },
+    {
+      "name": "레이피어",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 60
+    },
+    {
+      "name": "브로드-소드",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 1,
+      "sprite_frame": 7,
+      "max_skill": 60
+    },
+    {
+      "name": "바스타드-소드",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 1,
+      "sprite_frame": 8,
+      "max_skill": 70
+    },
+    {
+      "name": "클레이모어",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 70,
+      "sprite": 1,
+      "sprite_frame": 9,
+      "max_skill": 80
+    },
+    {
+      "name": "그레이트-소드",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 80,
+      "sprite": 1,
+      "sprite_frame": 10,
+      "max_skill": 90
+    },
+    {
+      "name": "플램버그",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 90,
+      "sprite": 1,
+      "sprite_frame": 11,
+      "max_skill": 100
+    },
+    {
+      "name": "라이트-액스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 30,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 40
+    },
+    {
+      "name": "토마호크",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 50
+    },
+    {
+      "name": "색슨-액스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 15,
+      "sprite_frame": 3,
+      "max_skill": 60
+    },
+    {
+      "name": "더블-액스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 15,
+      "sprite_frame": 0,
+      "max_skill": 70
+    },
+    {
+      "name": "워-액스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 70,
+      "sprite": 15,
+      "sprite_frame": 1,
+      "max_skill": 80
+    },
+    {
+      "name": "배틀-액스",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 90,
+      "sprite": 15,
+      "sprite_frame": 6,
+      "max_skill": 100
+    },
+    {
+      "name": "롱-소드+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 45,
+      "sprite": 1,
+      "sprite_frame": 2,
+      "max_skill": 80
+    },
+    {
+      "name": "세이버+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 1,
+      "sprite_frame": 3,
+      "max_skill": 85
+    },
+    {
+      "name": "시미타+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 1,
+      "sprite_frame": 4,
+      "max_skill": 90
+    },
+    {
+      "name": "팔치온+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 75,
+      "sprite": 1,
+      "sprite_frame": 5,
+      "max_skill": 95
+    },
+    {
+      "name": "에스터크+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 45,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 65
+    },
+    {
+      "name": "레이피어+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 75
+    },
+    {
+      "name": "브로드-소드+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 1,
+      "sprite_frame": 7,
+      "max_skill": 90
+    },
+    {
+      "name": "바스타드-소드+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 1,
+      "sprite_frame": 8,
+      "max_skill": 95
+    },
+    {
+      "name": "클레이모어+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 75,
+      "sprite": 1,
+      "sprite_frame": 9,
+      "max_skill": 96
+    },
+    {
+      "name": "그레이트-소드+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 84,
+      "sprite": 1,
+      "sprite_frame": 10,
+      "max_skill": 97
+    },
+    {
+      "name": "플램버그+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 93,
+      "sprite": 1,
+      "sprite_frame": 11,
+      "max_skill": 100
+    },
+    {
+      "name": "라이트-액스+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 60
+    },
+    {
+      "name": "토마호크+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 45,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 70
+    },
+    {
+      "name": "색슨-액스+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 15,
+      "sprite_frame": 3,
+      "max_skill": 80
+    },
+    {
+      "name": "더블-액스+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 15,
+      "sprite_frame": 0,
+      "max_skill": 90
+    },
+    {
+      "name": "워-액스+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 80,
+      "sprite": 15,
+      "sprite_frame": 1,
+      "max_skill": 94
+    },
+    {
+      "name": "배틀-액스+1",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 95,
+      "sprite": 15,
+      "sprite_frame": 6,
+      "max_skill": 100
+    },
+    {
+      "name": "롱-소드+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 1,
+      "sprite_frame": 2,
+      "max_skill": 80
+    },
+    {
+      "name": "세이버+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 1,
+      "sprite_frame": 3,
+      "max_skill": 85
+    },
+    {
+      "name": "시미타+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 75,
+      "sprite": 1,
+      "sprite_frame": 4,
+      "max_skill": 90
+    },
+    {
+      "name": "팔치온+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 85,
+      "sprite": 1,
+      "sprite_frame": 5,
+      "max_skill": 95
+    },
+    {
+      "name": "에스터크+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 65
+    },
+    {
+      "name": "레이피어+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 1,
+      "sprite_frame": 6,
+      "max_skill": 75
+    },
+    {
+      "name": "브로드-소드+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 1,
+      "sprite_frame": 7,
+      "max_skill": 80
+    },
+    {
+      "name": "바스타드-소드+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 75,
+      "sprite": 1,
+      "sprite_frame": 8,
+      "max_skill": 85
+    },
+    {
+      "name": "클레이모어+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 85,
+      "sprite": 1,
+      "sprite_frame": 9,
+      "max_skill": 90
+    },
+    {
+      "name": "그레이트-소드+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 94,
+      "sprite": 1,
+      "sprite_frame": 10,
+      "max_skill": 95
+    },
+    {
+      "name": "플램버그+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 97,
+      "sprite": 1,
+      "sprite_frame": 11,
+      "max_skill": 100
+    },
+    {
+      "name": "라이트-액스+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 75
+    },
+    {
+      "name": "토마호크+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 55,
+      "sprite": 15,
+      "sprite_frame": 2,
+      "max_skill": 80
+    },
+    {
+      "name": "색슨-액스+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "석탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 65,
+      "sprite": 15,
+      "sprite_frame": 3,
+      "max_skill": 85
+    },
+    {
+      "name": "더블-액스+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 75,
+      "sprite": 15,
+      "sprite_frame": 0,
+      "max_skill": 90
+    },
+    {
+      "name": "워-액스+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 90,
+      "sprite": 15,
+      "sprite_frame": 1,
+      "max_skill": 95
+    },
+    {
+      "name": "배틀-액스+2",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 99,
+      "sprite": 15,
+      "sprite_frame": 6,
+      "max_skill": 100
+    },
+    {
+      "name": "호버크(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 7,
+      "sprite_frame": 1,
+      "max_skill": 50
+    },
+    {
+      "name": "체인호스(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 8,
+      "sprite_frame": 2,
+      "max_skill": 60
+    },
+    {
+      "name": "스케일메일(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 9,
+      "sprite_frame": 2,
+      "max_skill": 70
+    },
+    {
+      "name": "체인메일(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 70,
+      "sprite": 9,
+      "sprite_frame": 1,
+      "max_skill": 80
+    },
+    {
+      "name": "플레이트레깅스(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 80,
+      "sprite": 8,
+      "sprite_frame": 3,
+      "max_skill": 90
+    },
+    {
+      "name": "플레이트메일(M)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 90,
+      "sprite": 9,
+      "sprite_frame": 3,
+      "max_skill": 100
+    },
+    {
+      "name": "위저드호버크(M)",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 95,
+      "sprite": 7,
+      "sprite_frame": 1,
+      "max_skill": 100
+    },
+    {
+      "name": "나이트플레이트메일M",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 99,
+      "sprite": 9,
+      "sprite_frame": 3,
+      "max_skill": 100
+    },
+    {
+      "name": "호버크(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 40,
+      "sprite": 11,
+      "sprite_frame": 2,
+      "max_skill": 50
+    },
+    {
+      "name": "체인호스(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "xxx",
+          "count": 0
+        }
+      ],
+      "skill_limit": 50,
+      "sprite": 12,
+      "sprite_frame": 3,
+      "max_skill": 60
+    },
+    {
+      "name": "스케일메일(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 60,
+      "sprite": 13,
+      "sprite_frame": 4,
+      "max_skill": 70
+    },
+    {
+      "name": "체인메일(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 70,
+      "sprite": 13,
+      "sprite_frame": 3,
+      "max_skill": 80
+    },
+    {
+      "name": "플레이트레깅스(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 80,
+      "sprite": 12,
+      "sprite_frame": 4,
+      "max_skill": 90
+    },
+    {
+      "name": "플레이트메일(W)",
+      "elements": [
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "철괴",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        },
+        {
+          "name": "고화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 90,
+      "sprite": 13,
+      "sprite_frame": 5,
+      "max_skill": 100
+    },
+    {
+      "name": "위저드호버크(W)",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 95,
+      "sprite": 7,
+      "sprite_frame": 1,
+      "max_skill": 100
+    },
+    {
+      "name": "나이트플레이트메일W",
+      "elements": [
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "미스릴괴",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        },
+        {
+          "name": "초화력탄",
+          "count": 1
+        }
+      ],
+      "skill_limit": 99,
+      "sprite": 9,
+      "sprite_frame": 3,
+      "max_skill": 100
+    }
+  ]
+}
