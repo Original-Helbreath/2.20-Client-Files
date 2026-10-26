@@ -3,7 +3,7 @@
  "width": 248,
  "height": 194,
  "original_bpp": 24,
- "original_pixels_sha1": "fdc1e4ac3f7f59d1c82f438932fdb8d996a863d9",
+ "original_pixels_sha1": "6ebeeb31c71b3ab70fe1a66f475a41f1647b1470",
  "frames": [
   {
    "x": 0,
@@ -517,5 +517,6 @@
    "pivot_x": -29,
    "pivot_y": -49
   }
- ]
+ ],
+ "pre_bitmap": "ffff00ff"
 }

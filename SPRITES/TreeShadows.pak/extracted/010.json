@@ -2,8 +2,8 @@
  "image": "010.png",
  "width": 439,
  "height": 131,
- "original_bpp": 1,
- "original_pixels_sha1": "446a01639a96d279f5d6ce37522d7deef3697a91",
+ "original_bpp": 24,
+ "original_pixels_sha1": "0bcd29337f09c651e37dbf6d6a4e9b1041111a87",
  "frames": [
   {
    "x": 1,
@@ -13,5 +13,6 @@
    "pivot_x": -268,
    "pivot_y": -122
   }
- ]
+ ],
+ "pre_bitmap": "ffff00ff"
 }
