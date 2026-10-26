@@ -1,0 +1,27 @@
+//본 파일의 내용을 변경하여 게임에 접속하는 것은 계정 삭제 사유가 되므로 주의하십시오.
+
+skill = 0  Mining          	0 1 
+skill = 1  Fishing         	0 1 
+skill = 2  Farming         	0 1 
+skill = 3  Magic-Registance    	0 0 
+skill = 4  Magic          	0 0 
+skill = 5  Hand-Attack       	0 0
+skill = 6  Arrow-Attack        	0 0 
+skill = 7  Short-Sword          0 0 
+skill = 8  Long-Sword           0 0 
+skill = 9  Fencing         	0 0
+skill = 10 Axe-Attack        	0 0
+skill = 11 Shield        	0 0 
+skill = 12 Architecture        	0 0 
+skill = 13 Manufacturing   	0 2 
+skill = 14 ????    		1 2 
+skill = 15 ????   		1 1 
+skill = 16 ????    		1 1 
+skill = 17 ????   		1 0
+skill = 18 ????     	        1 1
+skill = 19 Pretend-Corpse       1 0
+skill = 20 Taming               0 0
+skill = 21 Staff-Attack         0 0 
+skill = 22 ????                 1 2 
+skill = 23 Poison-Registance    0 0  
+  

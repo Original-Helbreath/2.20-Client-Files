@@ -1,0 +1,67 @@
+Helbreath V2.02
+- The Crusade
+ 
+ 
+Helbreath upgraded version 2.02 
+on 2001-08-09.
+Principal contents of 
+Helbreath V2.02- THe Crusade.
+ 
+
+The all-out war system starts
+in this version. 
+You can see the reference in the official announcement
+of the homepage.
+
+ 
+ 
+v2.0 Contents
+  
+1. The Aresden,Elvine, and Middleland map
+have been changed totally. And the map is
+50% larger than before.
+
+The size of the map,the interior and
+exterior of the buildings, monster appearance location 
+have been all changed. You will be able to see the 
+difference between the before buildings and the actual.
+The Beginner dungeon's location have been changed to
+the city. 
+
+ 
+Aresden's principal buildings and entrance location
+ 
+Cityhall(198,163) Cathedral(239,133)
+Shop(180,206) Blacksmith(211,240)
+Guildhall(167,136) Warehouse(142,212)
+Magic tower(67,160) Barracks(173,93) 
+Itunel field(43,379)
+  
+Elvine's principal buildings and entrance location
+ 
+Cityhall(181,178) Cathedral(162,132)
+Shop(273,131) Blacksmith(323,163)
+Guildhall(101,176) Warehouse(263,165)
+Magic tower(100,107) Barracks(198,104) 
+Rookie highland(320,20)
+ 
+ 
+2. It was changed to a new interface.
+   And the design's clean image shows more
+   elegance than the before one.
+ 
+ 
+3. New all out war mode was added.
+The first all out war is going to be held
+on july 27. And the details will be added
+in the official announcements after.
+
+ 
+ 
+4. New monster's such as Stalker,
+Hellclaw, Tigerworm were added.
+  
+ 
+www.helbreath.com
+master@siemen.co.kr
+ 
