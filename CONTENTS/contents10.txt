@@ -1,17 +1,17 @@
-HELBREATH  V2.0
+HELBREATH  V2.23
 -The Crusade
  
-www.helbreath.com
+www.helbreathusa.com
   
-2001.7.23
+2003.2.7
  
  
 Press F1 key to see the official 
 announcements.
  
  
-An unforgettable never ending Hel-
-breath's continent war story.
+An unforgettable never ending story
+of Helbreath's continental war.
      
 Welcome to the Helbreath's world!
 
@@ -57,12 +57,12 @@ must prepare hardly for the attack
  
 Basic commands
  
-[ Usage of the interface screen ]
+[Usage of the interface screen]
 By clicking the icons on the bottom
 the dialog box windows opens and
 to close it click the right button.
  
-[Move] 
+[Walk] 
 Indicate the position where you 
 want to move by clicking the left
 mouse button. And if you want to
@@ -405,7 +405,7 @@ be able to see the last chat massage
 
      
   
-Citynation description
+City nation description
  
 There are buildings in the
 Elvine and Aresden countries.
@@ -413,30 +413,34 @@ Let's see the use of this buildings
 as follow:
 
  
-City Hall : This places takes various
-services of the city.
-Travelers can take the citizenship
-here and take the right of citizen.
-Also, they can take prizes,possession
-flags and hero's mantle.
+City Hall : 
+This places takes various services 
+of the city. Travelers can take the 
+citizenship here and take the right 
+of citizen. Also, they can take 
+prizes,possession flags and hero's 
+mantle.
 
  
-Guild Hall : It's a place where you
-can organize or cancel a Guild, and
-also you can buy the guild joining
+Guild Hall : 
+It's a place where you can create or 
+disband a Guild, and also where 
+you can buy a guild joining
 application. To organize a guild or
 to become a guild master your
 charisma must be 20 or more. 
 To join a guild you should buy 
 an application form here, and then
-if you give to a guild master, he
-will decide the admission.
+give it to a guild master, he
+will decide whether to admit you.
 
  
-Cathedral : Each country has got
-it's is worshiped God's church
+Cathedral : 
+Each nation has got it's worshiped 
+God's church
  
-General Shop : It's a place where
+General Shop :
+It's a place where
 sells clothes and foods. You can't
 buy and sell objects here.
  
@@ -453,22 +457,18 @@ Warehouse :
 Players can keep and take
 back their items.
  
-Barrack: 
-It's a place where you can
-train hitting dummies.
-You can increase your level
-untill 40.
+Barracks: 
+Is a place where you can
+train by hitting dummies.
+You have to be below level
+40 to practice here.
  
 Please consult our 1.431 Manual
 (HTML file) for detailed contents. 
  
-You can obtain more information
-visitting our homepage.
- 
 For more information please 
-visit our homepage. Use the
-guestbook for Questions. And for 
+visit our homepage. And for 
 private questions email us to
-master@siemen.co.kr
+gamemaster@helbreathusa.com
  
-www.helbreath.com 
+www.helbreathusa.com 
