@@ -17,8 +17,10 @@ The `.pak` format is documented in [PAKLib](https://github.com/shadowevil/PAKLib
 
 Each sprite pak has its own folder: `SPRITES/<name>.pak/<name>.pak` is the pak, and `SPRITES/<name>.pak/extracted/`
 holds one PNG and one JSON per sheet (frame rectangles and pivots, plus the bytes the client skips), made with
-`pak/pak_tool.py` from [Tools](https://github.com/Original-Helbreath/Tools). `WHelm2.pak`, `WHelm3.pak` and
-`WHelm5.pak` are empty files, as shipped, and have nothing extracted.
+`pak/pak_tool.py` from [Tools](https://github.com/Original-Helbreath/Tools). Paks that shipped but the game never
+shows (`MHelm2`, `MHelm3`, `MHelm5` and the empty `WHelm2`, `WHelm3`, `WHelm5`) are not here; they are kept, with a
+note on each, in [2.20-Reference](https://github.com/Original-Helbreath/2.20-Reference) under
+`as-found/unused-sprites/`.
 
 The client opens `sprites\<name>.pak` as a file, so this folder is not playable as it is. Lay out an install with
 `deploy/deploy_client.py` from Tools, which copies everything and puts each pak flat in `SPRITES/`
